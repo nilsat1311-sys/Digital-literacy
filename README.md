@@ -1,9 +1,9 @@
 # Digital-literacy
 # Name - Nilanjana
 # registration number - 25BCE11181
-# 📘 Digital Literacy Project – CSE0001
+# Digital Literacy Project – CSE0001
 
-##  Project Overview
+## Project Overview
 This repository contains my submission for the **Digital Literacy Project** under course code **CSE0001** at **VIT Bhopal University**.  
 The project demonstrates my learning across five modules, covering:
 - Digital awareness and safe internet practices  
@@ -13,14 +13,14 @@ The project demonstrates my learning across five modules, covering:
 - Understanding cybercrime and prevention strategies  
 ---
 
-##  Repository Structure
+## Repository Structure
 
 
 README.md report/Project_Report.pdf task-1-presentation/ task-2-portfolio/ task-3-platforms/ task-4-email-etiquette/ task-5-cybercrime/
 
 ---
 
-## 📑 Module Summaries
+## Module Summaries
 
 ### **Task 1 – Digital Literacy Awareness Infographic**
 - Tool used: Canva/Prezi/Miro  
@@ -65,7 +65,7 @@ README.md report/Project_Report.pdf task-1-presentation/ task-2-portfolio/ task-
 
 ---
 
-##  References
+## References
 - Canva – [https://www.canva.com](https://www.canva.com)  
 - GitHub – [https://github.com](https://github.com)  
 - LinkedIn – [https://www.linkedin.com](https://www.linkedin.com)  
@@ -74,12 +74,7 @@ README.md report/Project_Report.pdf task-1-presentation/ task-2-portfolio/ task-
 
 ---
 
-##  Notes
+## Notes
 - All reflections are written in my own words.  
 - Screenshots are from my personal accounts.  
 - This repository is part of my permanent digital portfolio.  
-
-
-
-This README is complete, professional, and matches the assignment brief. You just need to insert your name, reg no., branch, screenshots, and links.
-👉 Would you like me to also prepare a ready-to-use Project Report template (with headings, word limits, and placeholders), so you can start writing directly without worrying about formatting?
